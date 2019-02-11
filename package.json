@@ -1,0 +1,15 @@
+{
+  "name": "storageapp",
+  "version": "1.0.0",
+  "description": "$localStorage app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Buddhi Tamang",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.7.6",
+    "ngstorage": "^0.3.11"
+  }
+}
